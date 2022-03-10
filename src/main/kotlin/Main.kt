@@ -1,3 +1,4 @@
+//ini adalah kode pertama saya di kotlin
 fun main(args: Array<String>) {
     println("Hello World!")
 
